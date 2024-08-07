@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 0.25rem;
+}
+
+.btn {
+    width: 100%;
+}
